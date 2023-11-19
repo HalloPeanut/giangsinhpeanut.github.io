@@ -2,7 +2,7 @@ const nameGirl = '';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'HỒ NGỌC BẢO';
 const titleCard = 'TẶNG BẠN NÈ';
-const contentCard = 'GIÁNG SINH NÀY NHỚ ĐI VỚI MÌNH NHA';
+const contentCard = 'CHÚC BẠN NHỎ CỦA MÌNH 20/11 DUI DẺ, MÃI EO GIÁO DIÊN MẦM NON';
 
 const giftImage = 'bao.jpg';
 const base64 = '';
